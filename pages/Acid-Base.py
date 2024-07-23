@@ -496,4 +496,4 @@ with col3:
                                     pH = round(14 + math.log(concOH, 10), 2)
                                     st.success('The pH after the titration is: ' + str(pH))
 
-st.write(st.session_state)
+
