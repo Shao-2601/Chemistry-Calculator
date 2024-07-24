@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_extras.switch_page_button import switch_page
 
-st.header('The Carolina Chemists\' Calculator')
+st.header('The Carolina Chemists\' Calculator v1.0')
 st.subheader('by Shao')
 st.write('Please select your desired calculation: ')
 
